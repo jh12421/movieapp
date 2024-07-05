@@ -1,0 +1,20 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+.movie {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 20px;
+}
+
+.movie img {
+  width: 200px;
+  height: auto;
+}
+
+.review {
+  border-top: 1px solid #ddd;
+  padding: 10px;
+}
